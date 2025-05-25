@@ -1,0 +1,11 @@
+{
+  "itemGroup.atomicc.main": "Atomicc",
+
+  "block.atomicc.atomic_ore": "Atomic Ore",
+
+  "item.atomicc.atomic_ore": "Atomic Ore",
+  "item.atomicc.atomic_shard": "§6Atomic Shard§r",
+  "item.atomicc.atomic_core": "§eAtomic Core§r",
+
+  "tooltip.atomicc.atomic_shard": "§7§oA fragment of what was never meant to exist."
+}

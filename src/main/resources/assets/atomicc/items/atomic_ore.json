@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "atomicc:item/atomicc_shard"
+    "model": "atomicc:item/atomic_ore"
   }
 }

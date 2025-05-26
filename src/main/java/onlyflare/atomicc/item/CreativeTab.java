@@ -1,10 +1,11 @@
-package onlyflare.atomicc;
+package onlyflare.atomicc.item;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.neoforged.neoforge.registries.DeferredRegister;
+import onlyflare.atomicc.Atomicc;
 
 import java.util.function.Supplier;
 

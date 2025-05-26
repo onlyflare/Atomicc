@@ -7,5 +7,7 @@
   "item.atomicc.atomic_shard": "§6Atomic Shard§r",
   "item.atomicc.atomic_core": "§eAtomic Core§r",
 
-  "tooltip.atomicc.atomic_shard": "§7§oA fragment of what was never meant to exist."
+  "tooltip.atomicc.atomic_shard.shift": "§7Hold§r §eShift§r §7for detailed information§r",
+  "tooltip.atomicc.atomic_shard": "§3Can be used to rearrange item's molecules, transforming them in different item variants§r",
+  "tooltip.atomicc.atomic_shard.quote": "§7\"A fragment of what was never meant to exist — void of mass, charge, or structure.\"§r"
 }

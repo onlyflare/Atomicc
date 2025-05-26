@@ -2,6 +2,9 @@ package onlyflare.atomicc;
 
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
+import onlyflare.atomicc.block.Blocks;
+import onlyflare.atomicc.item.CreativeTab;
+import onlyflare.atomicc.item.Items;
 
 @Mod(Atomicc.MOD_ID)
 public class Atomicc {
